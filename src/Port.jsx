@@ -54,7 +54,7 @@ function Port() {
                 </div>
               </section>
               <h3 class="font-bold text-3xl tracking-tighter mt-5 group-hover:text-blue-500">
-                Firts development
+                JavaScript
               </h3>
               <p class="text-slate-500 my-4">
                 Lorem, ipsum dolor sit amet i while going to th market and all
@@ -85,7 +85,7 @@ function Port() {
                 </div>
               </section>
               <h3 class="font-bold text-3xl tracking-tighter mt-5 group-hover:text-blue-500">
-                Firts development
+                React js
               </h3>
               <p class="text-slate-500 my-4">
                 Lorem, ipsum dolor sit amet i while going to th market and all
@@ -116,7 +116,7 @@ function Port() {
                 </div>
               </section>
               <h3 class="font-bold text-3xl tracking-tighter mt-5 group-hover:text-blue-500">
-                Firts development
+                Tailwindcss
               </h3>
               <p class="text-slate-500 my-4">
                 Lorem, ipsum dolor sit amet i while going to th market and all
